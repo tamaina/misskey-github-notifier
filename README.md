@@ -7,6 +7,6 @@ GitHub notifier for Misskey
 	"port": 3000,
 	"hookSecret": "",
 	"i": "",
-	"instance": ""
+	"instance": "https://example.com"
 }
 ```
